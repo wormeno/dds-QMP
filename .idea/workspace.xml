@@ -1,7 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b8716b5-52b8-46b9-96a0-f6e50b492ed7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/queMePongo/Clima.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/queMePongo/Clima.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/QMP.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/queMePongo/Atuendo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/queMePongo/Borrador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/queMePongo/BorradorException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/queMePongo/Categoria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/queMePongo/Clima.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/queMePongo/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/queMePongo/Estado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/queMePongo/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/queMePongo/Material.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/queMePongo/Prenda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/queMePongo/Servicios/AccuWeatherAPI$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/queMePongo/Servicios/AccuWeatherAPI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/queMePongo/Servicios/AccuWeatherAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/queMePongo/Servicios/ServiciosClima.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/queMePongo/TipoPrenda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/queMePongo/Trama.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/queMePongo/Venta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/queMePongo/liquidacion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/queMePongo/nuevo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/queMePongo/promocion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/queMePongo/ventaConTarjeta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/queMePongo/ventaEfectivo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/queMePongo/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/queMePongo/ClimaTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1caTYCIVLGd3qa0fQOx0vPY95u5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ClimaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QMP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="queMePongo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="queMePongo" />
+      <option name="MAIN_CLASS_NAME" value="queMePongo.ClimaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ClimaTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b8716b5-52b8-46b9-96a0-f6e50b492ed7" name="Default Changelist" comment="" />
+      <created>1590765750630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590765750630</updated>
+      <workItem from="1590765767499" duration="454000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="0" key="SettingsEditor" timestamp="1590766244054">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1590766244054" />
   </component>
 </project>

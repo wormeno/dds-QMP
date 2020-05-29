@@ -20,7 +20,7 @@
     En éste punto no sé como asegurarle al stakeHolder, que no tiene conocimientos técnicos, que para asegurar la calidad estoy aplicando patrones de diseño y las abstracciones necesarias para representar su modelo de negocio
 
 
-[Diagrama de Clases de la cuarta iteracion](/documents/4Iteracion.phg)
+![Diagrama de Clases de la cuarta iteracion](/documents/4Iteracion.phg)
 
 ---
 
