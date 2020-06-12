@@ -1,0 +1,5 @@
+## QMP - Qué Me Pongo - Sexta iteración
+
+### Diagrama de clases
+![Diagrama de Clases de la cuarta iteracion](http://www.plantuml.com/plantuml/png/fPFDQZen5CNtUOhWolyVz0cAs8LqKuimxGFSnkjm8Hzoaodzm7VlpPWPbPbQgE0YddFoIt8oMSO4d1fdbR4GerwvlKNOXY-b-x76CX2jQcfaz8P0npmatiZVBQY3AeH74kHJIBGZ0uQ2nvXXTws-q7PePzSUNNzXR3ZK30wsa3FoYqqqJA_4vu3fFt7GaYCFGwF6TBcQg28R3dwWzsUujyW9rfYGCTXGasaBqIRusDW4V0oKEUGbjmE3kYDoczvpC1W7U-fNgSuBr9HBTkXJF67qxvn-jy-17NXCjvCU63nzXXiubPnevO3idnW5ifRv6OIiEwdB9ibMo6zai6Nvh7zC4xudkTr3IR_41fY25k9fG_FvueoiBkv0lB4brAbWz0dqzLXfxyVKoFl8sR5lJgl-2SvcYyd_oTZZ6WLs-RxpgwbIb5fA2Osptm00)
+

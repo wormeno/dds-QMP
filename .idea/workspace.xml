@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b8716b5-52b8-46b9-96a0-f6e50b492ed7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/queMePongo/Prenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/queMePongo/Prenda.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +14,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,6 +34,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -31,6 +42,11 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="queMePongo" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="ClimaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -64,7 +80,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590765750630</updated>
-      <workItem from="1590765767499" duration="591000" />
+      <workItem from="1590765767499" duration="4677000" />
+      <workItem from="1591994720895" duration="529000" />
     </task>
     <servers />
   </component>
@@ -72,6 +89,26 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="466" y="265" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1590767698623">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="466" y="265" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.768@0.0.1366.768" timestamp="1590767698623" />
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1590788227462">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1590788227462" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1590788227462">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1590788227462" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1590788227460">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1590788227460" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1590788227462">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1590788227462" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1590766244054">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

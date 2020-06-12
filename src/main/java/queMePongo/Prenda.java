@@ -2,10 +2,7 @@ package queMePongo;
 
 import java.util.List;
 
-/**
- * Hello world!
- *
- */
+
 public class Prenda
 {
     double precioBase,descuentoBase;
@@ -92,36 +89,19 @@ enum Trama{
 }
 
 class Color {
-    String colorR;
-    String colorG;
-    String colorB;
-    Color(String colorR, String colorG, String colorB){
+    int colorR;
+    int colorG;
+    int colorB;
+    Color(int colorR, int colorG, int colorB){
         this.colorR = colorR;
         this.colorG = colorG;
         this.colorB = colorB;
     }
 }
 
-class TipoPrenda {
-    Categoria categoria;
-    public TipoPrenda(Categoria unaCategoria){
-        categoria = unaCategoria;
-    }
-
-    public Categoria getCategoria() {
-        return categoria;
-    }
 
 
 
-}
-
-enum  Categoria{
-    SUPERIOR,
-    INFERIOR,
-    CALZADO,
-    ACCESORIO
-}
 
 
 /**

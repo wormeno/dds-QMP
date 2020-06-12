@@ -20,7 +20,7 @@
     En éste punto no sé como asegurarle al stakeHolder, que no tiene conocimientos técnicos, que para asegurar la calidad estoy aplicando patrones de diseño y las abstracciones necesarias para representar su modelo de negocio
 
 
-![Diagrama de Clases de la cuarta iteracion](http://www.plantuml.com/plantuml/png/VPBRQW8n48RlynI3Lowe3r11NFIcq89WeTUpar47ieda83tGTs-oHbiHX2Kaa__miRlB4D77r1j51aE0DYQssdqhW9MH7e7AEiz7poIT-6tQisTBWc6yoHkD4DAHlJW_WJeGkxiT49elrEvwHY8EBakQ79oVup1koNdDAsU7vfhUg1zLsQgvi0MERzpdMep9uoj-P4EhcH9g76kNEiCG_mIbPl_8ygzbA2yTG98qwhBRCHqmRsv3gariPBz3Oe0j-vEGk3245D9xpsf8dPmpcxcwQ3RUTTY9aNoxvXUJJd8llbAsHEcTCHxOjvjdaFvek6SRmnt3kU0HYSR83HITWaSms-Z5xk5YMsTR1IjSzS-1wNG1enxjvwX-iASeRFbwFvijpkzO3UjmlcLMoonClVa5)
+![Diagrama de Clases de la cuarta iteracion](http://www.plantuml.com/plantuml/png/VPBRQW8n48RlynI3Lowe3r11NFIcq89WeTUpar47ieda83tGTs-oHbiHX2Kaa__miRlB4D77r1j51aE0DYQssdqhW9MH7e7AEiz7poIT-6tQisTBWc6yoHkD4DAHlJW_WJeGkxiT49elrEvwHY8EBakQ79oVup1koNdDAsU7vfhUg1zLsQgvi0MERzpdMep9uoj-P4EhcH9g76kNEiCG_mIbPl_8ygzbA2yTG98qwhBRCHqmRsv3gariPBz3Oe0j-vEGk3245D9xpsf8dPmpcxcwQ3RUTTY9aNoxvXUJJd8llbAsHEcTCHxOjvjdaFvek6SRmnt3kU0HYSR83HITWaSms-Z5xk5YMsTR1IjSzS-1wNG1enxjvwX-iASeRFbwFvijpkzO3UjmlcLMoonClVa5 "Diagrama de Clases Cuarta iteración")
 
 ---
 
